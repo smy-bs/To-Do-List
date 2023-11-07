@@ -1,5 +1,5 @@
 # To-Do-List App
-![](https://imgur.com/lndRYUV)
+![image to do list](https://i.imgur.com/lndRYUV.jpg)
 
 C'est une application qui vous permet d'ajouter et de supprimer des éléments, ainsi que de visualiser vos tâches en fonction de leur statut.
 * Application de démonstration 🎬: https://smy-bs.github.io/To-Do-List/
